@@ -1,0 +1,2 @@
+Command to install material UI dependancy to our project:
+npm i --save @material-ui/core
